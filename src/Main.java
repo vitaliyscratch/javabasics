@@ -9,17 +9,10 @@ public class Main {
 
         double tstA1d = 0;
         double tstB1d = 0;
-        double tstC1d = 0;
-        double tstD1d = 0;
-
-        char tstA1c = '*';
-        char tstB1c = '*';
-        char tstC1c = '*';
-        char tstD1c = '*';
 
         System.out.println("Hello, world!");
-        System.out.println("Another Text");
-        System.out.println("One more text");
+        System.out.println("Test");
+
 
     }
 }
