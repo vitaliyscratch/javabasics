@@ -16,9 +16,10 @@ public class Main {
         char tstB1c = '*';
         char tstC1c = '*';
         char tstD1c = '*';
-        
-        System.out.println("Hello, world!");
 
+        System.out.println("Hello, world!");
+        System.out.println("Another Text");
+        System.out.println("One more text");
 
     }
 }
